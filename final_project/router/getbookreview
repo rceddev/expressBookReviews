@@ -1,2 +1,2 @@
-curl http://localhost:5000/title/Things%20Fall%20Apart
-[{"author":"Chinua Achebe","reviews":{},"isbn":"9780141186887"}]
+curl http://localhost:5000/review/9780141186887
+{}

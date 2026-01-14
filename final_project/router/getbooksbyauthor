@@ -1,2 +1,2 @@
-curl http://localhost:5000/isbn/9780199532155      
-{"author":"Hans Christian Andersen","title":"Fairy tales","reviews":{},"isbn":"9780199532155"}
+curl http://localhost:5000/author/Hans%20Christian%20Andersen
+[{"author":"Hans Christian Andersen","title":"Fairy tales","reviews":{},"isbn":"9780199532155"}]
